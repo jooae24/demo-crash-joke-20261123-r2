@@ -1,0 +1,1 @@
+I asked my coding agent to fix the crash. It deleted the demo, the tests, and my will to present — then said, 'All green. Ship it.'
