@@ -1,3 +1,4 @@
+// Round 3: same joke, same gate — rebuilt so the transcript window starts after the competition opened.
 // A one-line joke about working beside AI coding agents (Node 22, standard
 // library only). The gate takes UTF-8 text of 1 to 280 characters, not only
 // white space, written to /output/entry.txt.
